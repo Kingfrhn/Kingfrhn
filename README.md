@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Omar Farahan Molla 👋  
+## 🕹️ QA Engineer | Game & Software Testing Specialist | Bug Hunter
 
-<!--
-**Kingfrhn/Kingfrhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Expertise:** Manual Testing | Game QA | Software QA | Basic Automation
+- **Platforms:** PC, PlayStation, Xbox, Mobile (Android/iOS/Amazon)  
+- **Tools:** Jira, TestRail, Mantis DB, Selenium (Basic) 
+- **Scripting Languages:** Java (Basic)  
+- **Testing Types:** Functional, Regression, Compatibility, Performance, Multiplayer  
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects  
+### 🎯 [Testing Projects](#)  
+- Conducted functional and compatibility testing for different projects from the well reputed Clients like **Eidos Montreal, Microids, Bandai Namco, Scopely, King**
+- Logged and tracked bugs in Jira, collaborating with developers.  
+- Performed cross-platform testing on PC, PlayStation, and Xbox.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 [Test Automation Demo (Selenium + Java)](#)  
+- Created basic UI automation scripts for a sample web application.  
+- Used Selenium WebDriver with Java for test execution.  
+
+## 🛠️ Sample Repositories  
+📌 **[Game Testing Test Cases](#)** - Sample test cases for different game genres.  
+📌 **[Bug Reports](#)** - Example bug reports with severity and priority.  
+📌 **[Automation Scripts](#)** - Selenium scripts for automated testing.  
+
+## 📜 Certifications  
+✅ ISTQB Foundation Level (if applicable)  
+✅ [Automation Testing with Selenium & Java (if any courses)](#)  
+
+## 📧 Connect with Me  
+[LinkedIn](https://linkedin.com/in/omrfrhn) | [GitHub](your-github-url) | [Email](omrfrhn@gmail.com)  
