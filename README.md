@@ -2,7 +2,7 @@
 ## 🕹️ QA Engineer | Game & Software Testing Specialist | Bug Hunter
 
 - **Expertise:** Manual Testing | Game QA | Software QA | Basic Automation
-- **Platforms:** PC, PlayStation, Xbox, Mobile (Android/iOS/Amazon)  
+- **Platforms:** PC, PlayStation, Xbox, Mobile (Android/iOS/Amazon), HTML5  
 - **Tools:** Jira, TestRail, Mantis DB, Selenium (Basic) 
 - **Scripting Languages:** Java (Basic)  
 - **Testing Types:** Functional, Regression, Compatibility, Performance, Multiplayer  
