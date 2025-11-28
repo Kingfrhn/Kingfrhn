@@ -18,7 +18,7 @@
 - Used Selenium WebDriver with Java for test execution.  
 
 ## 🛠️ Sample Repositories  
-📌 **[Game Testing Test Cases](#)** - Sample test cases for different game genres.  
+📌 **[Game Testing Test Cases](https://github.com/Kingfrhn/Kingfrhn/blob/main/Game%20testing%20document%20-%20Omar.xlsx)** - Sample test cases.  
 📌 **[Bug Reports](#)** - Example bug reports with severity and priority.  
 📌 **[Automation Scripts](#)** - Selenium scripts for automated testing.  
 
