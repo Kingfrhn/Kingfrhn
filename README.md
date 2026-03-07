@@ -3,9 +3,9 @@
 ### 🕹️ Senior QA Engineer | Game & Software Testing | Bug Hunter
 
 Senior QA Test Engineer with **4+ years of experience in game and application testing across Mobile, Console, PC, and Web platforms**.  
-Specialized in **functional, exploratory, regression, and cross-platform testing**, with hands-on experience in **defect lifecycle management using Jira and TestRail**.
+Specialized in **functional, exploratory, regression, and cross-platform testing**, with strong experience in **defect lifecycle management using Jira and TestRail**.
 
-Currently expanding my skills in **test automation using Java and Selenium WebDriver**.
+Currently expanding my expertise in **test automation using Java and Selenium WebDriver**.
 
 ---
 
@@ -24,21 +24,22 @@ Currently expanding my skills in **test automation using Java and Selenium WebDr
 
 # 🎮 Platforms Tested
 
-### Mobile Platforms
+### Mobile
 - Android
 - iOS
+- Amazon
 
-### Console Platforms
+### Console
 - PlayStation (PS4 / PS5)
 - Xbox
 - Nintendo Switch
 
-### PC Platforms
+### PC
 - Windows
 - macOS
 
-### Web Platforms
-- HTML5 / Browser-based Games
+### Web
+- HTML5 / Browser Games
 
 ---
 
@@ -47,9 +48,9 @@ Currently expanding my skills in **test automation using Java and Selenium WebDr
 ### Bug Tracking & Test Management
 - Jira
 - TestRail
-- Mantis DB *(WIP – sample bug reports will be added)*
+- Mantis DB 
 
-### Debugging Tools
+### Debugging & Analysis
 - ADB
 - Logcat
 - Charles Proxy
@@ -57,59 +58,68 @@ Currently expanding my skills in **test automation using Java and Selenium WebDr
 
 ---
 
-# 🤖 Automation (Learning – WIP)
+# 🤖 Automation Practice
 
-Currently building automation knowledge as part of my **SDET training program**.
+Automation skills developed during **SDET training**.
 
-Tools being practiced:
+- Selenium WebDriver (Java) – UI automation practice scripts  
+- Core Java for Automation – OOP, collections, exception handling  
+- FireFlink – Codeless automation workflows  
 
-- Selenium WebDriver *(WIP – automation scripts coming soon)*
-- Java for Automation *(WIP)*
-- FireFlink – Codeless Automation *(WIP – examples will be added)*
+Example automation repositories will be uploaded soon.
 
 ---
 
 # 🚀 Sample QA Work
 
-**Game Testing Test Cases**
+### Game Testing Test Cases
 
-Example structured gameplay testing test cases:  
+Example gameplay testing documentation demonstrating structured test case design.
+
 [Open Test Case Document](https://github.com/Kingfrhn/Kingfrhn/blob/main/Game%20testing%20document%20-%20Omar.xlsx)
 
 ---
 
-### 📌 Automation Scripts (WIP)
+### Automation Scripts *(WIP)*
 
 Automation examples using **Selenium WebDriver with Java**.
 
 Planned repository contents:
 
-- UI automation scripts  
-- Element locator examples  
-- Test execution using Selenium WebDriver  
-- Basic automation framework structure  
-
-*(Repository will be added soon)*
+- UI automation scripts
+- Element locator examples
+- Basic automation framework
+- Selenium test execution
 
 ---
 
-### 📌 Bug Reporting Examples (WIP)
+### Bug Reporting Examples *(WIP)*
 
 Example bug reports demonstrating:
 
-- Clear reproduction steps  
-- Severity and priority classification  
-- Screenshot and log documentation  
+- Clear reproduction steps
+- Severity and priority classification
+- Screenshot and log documentation
 
-*(Bug report samples will be uploaded soon)*
+---
+
+# 🎮 Industry Experience
+
+Worked on testing projects from global game studios including:
+
+- King
+- Scopely
+- Bandai Namco
+- Microids
+- Eidos Montreal
 
 ---
 
 # 📚 Professional Training
 
-**Software Testing with Java Automation (SDET)**  
-QSpiders - Kolkata, India  
-Nov 2024 - Feb 2026 *(In Progress)*
+**Java Selenium with Advanced Automation (SDET)**  
+QSpiders – Kolkata, India  
+Nov 2024 – Feb 2026 *(In Progress)*
 
 Key Learning Areas:
 
@@ -122,11 +132,8 @@ Key Learning Areas:
 
 # 📫 Connect With Me
 
-LinkedIn  
-https://linkedin.com/in/omrfrhn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Farahan%20Molla-blue?logo=linkedin)](https://linkedin.com/in/omrfrhn)
 
-GitHub  
-https://github.com/Kingfrhn
+[![GitHub](https://img.shields.io/badge/GitHub-Kingfrhn-black?logo=github)](https://github.com/Kingfrhn)
 
-Email  
-omrfrhn@gmail.com
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:omrfrhn@gmail.com)
